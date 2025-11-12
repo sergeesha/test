@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title План разработки сайта кофейни "Аромат"
+    title План разработки приложения кофейни "Аромат"
     dateFormat  YYYY-MM-DD
     axisFormat  %d.%m
 
